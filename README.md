@@ -10,7 +10,7 @@
 
 NOT:
 
- /*Eğer ki Türkçe karakterleri de okumasını istiyorsak onun için 
-         * bu işleme Encoding işlemi deniliyoR
-         * (file_path,Encoding.GetEncoding("windows-1254"));
-         */
+Eğer ki Türkçe karakterleri de okumasını istiyorsak onun için  bu işleme Encoding işlemi deniliyor
+         
+         (file_path,Encoding.GetEncoding("windows-1254"));
+   
