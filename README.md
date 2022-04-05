@@ -17,6 +17,6 @@ Eğer ki Türkçe karakterleri de okumasını istiyorsak onun için  bu işleme 
    
    
    
-- <a href="https://github.com/edakass/CSharp_Examples/tree/main/ReadingDataFromFile">Dosyadan Veri Okuma(Dizi ile)</a>
+- <a href="https://github.com/edakass/CSharp_Examples/tree/main/ReadingFile">Dosyadan Veri Okuma(Dizi ile)</a>
 
 ![image](https://user-images.githubusercontent.com/61595808/161825903-60b570c9-6a20-4a8e-abc0-d55ec719550c.png)
