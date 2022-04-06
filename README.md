@@ -30,3 +30,7 @@ Eğer ki Türkçe karakterleri de okumasını istiyorsak onun için  bu işleme 
 - <a href="https://github.com/edakass/CSharp_Examples/tree/main/2">Dosyaya Veri Yazma -2- </a>
 
 ![image](https://user-images.githubusercontent.com/61595808/162002092-ae7731e9-623b-4afa-8497-50cef00cd726.png)
+
+- <a href="https://github.com/edakass/CSharp_Examples/tree/main/2">Dosyaya Veri Yazma -3- </a>
+
+![image](https://user-images.githubusercontent.com/61595808/162032931-25ad34af-3ad3-4abb-8a8c-a54a0304442a.png)
