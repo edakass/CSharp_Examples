@@ -20,3 +20,8 @@ Eğer ki Türkçe karakterleri de okumasını istiyorsak onun için  bu işleme 
 - <a href="https://github.com/edakass/CSharp_Examples/tree/main/ReadingFile">Dosyadan Veri Okuma(Dizi ile)</a>
 
 ![image](https://user-images.githubusercontent.com/61595808/161825903-60b570c9-6a20-4a8e-abc0-d55ec719550c.png)
+
+
+- <a href="https://github.com/edakass/CSharp_Examples/tree/main/ReadingDataFromFile">Dosyaya Veri Yazma</a>
+
+![image](https://user-images.githubusercontent.com/61595808/161994813-4e6e1607-9acd-4c32-8893-46e4a8575d69.png)
